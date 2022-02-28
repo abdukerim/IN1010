@@ -1,5 +1,5 @@
 ### Oppgave beskrivelse
-##I denne oppgaven skal vi skrive et program som ved å analysere blodprøver finner sekvensmønstre
+I denne oppgaven skal vi skrive et program som ved å analysere blodprøver finner sekvensmønstre
   som indikerer en infeksjon av et bestemt virus. For å få til dette vil vi analysere immunrepertoarene -
 DNA-sekvenser av immunceller i blodet - til personer som vi vet er blitt smittet eller ikke er blitt
 smittet av et bestemt virus.
